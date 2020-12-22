@@ -1,0 +1,17 @@
+{ 
+	"windowHomeTitle":"Salah eddine. Nacer - Personal Website",
+    "navBar": {
+	"home":"Home",
+	"projects":"Projects",
+	"writings":"Writings",
+	"contact":"Contact"
+	}, 
+    "fullName": "SALAH EDDINE. NACER",
+    "jobTitle": "SOFTWARE ENGINEER & UI DESIGNER" ,
+	"descriptionSection":"FataAAala Allahu almaliku alhaqqu wala taAAjal bialqurani min qabli an yuqda ilayka wahyuhu waqul rabbi zidnee AAilman",
+	"descriptionSectionHover":"_",
+	"setBgLabel":"Set Background",
+	"madeWith":"Made with 💖 by",
+	"copyrights":"© 2020, Salah eddine.Nacer"
+
+}

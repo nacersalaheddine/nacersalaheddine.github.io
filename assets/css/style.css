@@ -8,7 +8,6 @@ body {
 	font-family: 'Cairo', sans-serif;
 }
 
-
 /*Css separator*/
 
 .nav-link {
@@ -177,14 +176,18 @@ p {
 .date,
 .location {
 	/*font-family: 'Noto Sans', monospace;*/
-	font-size: 3rem;
+	font-size: 2.3rem;
 	font-family: 'Teko', sans-serif;
 }
-
+#info li,
+#info-mobile li{
+	margin:1rem;
+}
 .date,
 #info a,
 #info-mobile a {
-	color: rgb(148, 86, 199);
+	color: #333;
+
 }
 
 .bottom {
@@ -213,6 +216,10 @@ p {
 	#experience h2 {
 		margin-top: 0px;
 	}
+	.nav-link {
+		font-size: 1.7rem;
+	}
+
 }
 
 .galaxy-page {
@@ -255,11 +262,17 @@ mark {
 
 .contact-info {
 	font-size: 2rem;
+	
 	font-family: oswald;
 }
 
 .contact-info li {
 	color: #333;
+	font-family:oswald;
+
+}.contact-info li a{
+	color: #333;
+		font-family:oswald;
 }
 
 #github-link {

@@ -1,0 +1,268 @@
+{
+  "contactInfo": {
+    "title": "CONTACT INFO",
+    "phone": "(+213) 666 26 75 09",
+    "location": "Ain-Touta, Batna, ALgeria",
+    "email": "nacersalaheddine05@gmail.com",
+    "linkedin": "LinkedIn",
+    "github": "Github",
+    "resume": "Download Resume"
+  },
+  "experience": {
+    "title": "EXPERIENCE",
+    "experiences": [
+      {
+        "title": "OPEN SOURCE SOFTWARE DEVELOPER",
+        "date": "2017 - NOW",
+        "loc": "Internet | Algeria",
+        "notes": [
+          "Developing WEB & Cross-Platform Desktop Applications.",
+          "Writing Efficient, Clean code and following standard guidelines and best practices.",
+          "Taking high interest in User-Interface(UI) Design, and following User-Experience(UX) rules."
+        ],
+        "keywords": {
+          "title": "Keywords",
+          "keywordsList": [
+            "SOFTWARE ENGINEERING",
+            "Cross-Platform",
+            "Clean Code",
+            "Java",
+            "Javascript",
+            "Git",
+            "UI/UX"
+          ]
+        }
+      },
+      {
+        "title": "MASTER'S GRADUATION PROJECT",
+        "date": "Dec 2019 - Sept 2020",
+        "loc": "Biskra, Computer Science Dpt., | Algiers, Algeria",
+        "notes": [
+          "Developed a Sentiment Analysis System based on Machine Learning & Deep learning."
+        ],
+        "keywords": {
+          "title": "Keywords",
+          "keywordsList": [
+            "Sentiment Analysis",
+            "NLP(Natural Language Processing)",
+            "Machine Learning",
+            "Deep Learning"
+          ]
+        }
+      },
+      {
+        "title": "FREELANCE",
+        "date": "2019 - Now",
+        "loc": "Upwork | Fiver | Algeria (Local clients)",
+        "notes": [],
+        "keywords": {
+          "title": "Keywords",
+          "keywordsList": [
+            "Freelancing",
+            "Developing Software",
+            "Work"
+          ]
+        }
+      },
+      {
+        "title": "TECH BLOGGER - CONTENT CREATOR",
+        "date": "2020 - Now",
+        "loc": "Medium.com | Personal Blog",
+        "notes": [
+          "Writing tech related articles."
+        ],
+        "keywords": {
+          "title": "Keywords",
+          "keywordsList": [
+            "Articles",
+            "Writing",
+            "Tech"
+          ]
+        }
+      }
+    ]
+  },
+  "skills": {
+    "title": "SKILLS",
+    "skillsSet": [
+      {
+        "title": "PROGRAMMING LANGUAGES",
+        "skillsList": [
+          "Java",
+          "Python",
+          "JavaScript",
+          "C"
+        ]
+      },
+      {
+        "title": "FRAMEWORKS",
+        "skillsList": [
+          "FLask",
+          "Java/JavaFx",
+          "React",
+          "Rest/GraphQL"
+        ]
+      },
+      {
+        "title": "DESIGN & DEV TOOLS",
+        "skillsList": [
+          "VScode",
+          "Netbeans IDE",
+          "Photoshop",
+          "Adobe XD",
+          "LaTeX"
+        ]
+      },
+      {
+        "title": "OTHER",
+        "skillsList": [
+          "Git",
+          "Bash",
+          "Google Analytics",
+          "Data manipulation",
+          "NLP",
+          "Automation",
+          "Web Scrapping"
+        ]
+      },
+      {
+        "title": "SOFT SKILLS",
+        "skillsList": [
+          "Teamwork",
+          "Leadership",
+          "Telepathy"
+        ]
+      },
+      {
+        "title": "EXTRA",
+        "skillsList": [
+          "Awesome Personality 🙄"
+        ]
+      }
+    ]
+  },
+  "languages": {
+    "title": "LANGUAGES",
+    "languagesSet": [
+      "Tamazight, Native (Mother-tongue).",
+      "Arabic, Native",
+      "English, Very good",
+      "French, basic"
+    ]
+  },
+  "education": {
+    "title": "EDUCATION",
+    "educationSet": [
+      {
+        "title": "MASTER’S DEGREE IN COMPUTER SCIENCE",
+        "date": "Sep 2017 - Jul 2020",
+        "loc": "MOHAMMED KHIDER UNIVERSITY, Biskra, Algeria",
+        "description": [
+          {
+            "title": "Speciality:",
+            "description": "Networks and Information and Communication Technologies. —"
+          },
+          {
+            "title": "Graduation Thesis Title:",
+            "description": "Sentiment analysis based on Machine learning and Deep learning . —"
+          }
+        ],		"courses":{
+		"title":"Courses",
+        "courses": [
+          "Networking",
+          "Distributed Systems",
+          "Web Applications Development",
+          "Algorithms & Data Structures",
+          "Compiler Design",
+          "Constraint programming",
+          "Web services",
+          "Advanced Databases."
+        ]}
+      },
+      {
+        "title": "BACHELOR OF SCIENCE IN COMPUTER SCIENCE.",
+        "date": "Sep 2014 - Jul 2017",
+        "loc": "MOHAMMED KHIDER UNIVERSITY, Biskra, Algeria",
+        "description": [
+          {
+            "title": "Speciality:",
+            "description": "Information Systems. —"
+          },
+          {
+            "title": "Graduation Thesis Title:",
+            "description": "3D Engine Modeling with L-systems. —"
+          }
+        ],		"courses":{
+		"title":"Courses",
+        "courses": [
+          "Mathematics ",
+          "Algorithmics ",
+          "Computer architecture",
+          "Databases ",
+          "Programming and Web development",
+          "Physics"
+        ]}
+      },
+      {
+        "title": "BACCALAURÉAT DEGREE.",
+        "date": "Jul 2014",
+        "loc": "AHMED BEN BRAHIM HIGH-SCHOOL, Ain-Zaatout, Biskra, Algeria",
+        "description": [
+          {
+            "title": "Speciality:",
+            "description": "Experimental sciences. —"
+          }
+        ],		"courses":{
+		"title":"Keywords",
+        "courses": [
+          "High-School"
+        ]}
+      }
+    ]
+  },
+  "interests": {
+    "title": "INTERESTS",
+    "interestsSet": [
+      "Books",
+      "Music",
+      "Anime",
+      "Drawing",
+      "Open Source."
+    ]
+  },
+  "contact": {
+    "title": "CONTACT ME",
+    "contactSet": [
+      {
+        "name": "FULL NAME *",
+        "prompt": "Enter Your Name"
+      },
+      {
+        "name": "EMAIL *",
+        "prompt": "Enter Your Email"
+      },
+      {
+        "name": "PHONE",
+        "prompt": "Enter Phone Number"
+      },
+      {
+        "name": "NEEDED SERVICE *"
+        
+      },
+      {
+        "name": "MESSAGE",
+        "prompt": "Your Message Here..."
+      }
+    ],
+	"services": [
+          "Other",
+          "Programming & Development",
+          "UI/UX Design",
+          "Online Service"
+        ],
+       "sendButton":{
+        "name": "Send",
+        "prompt": "Send message"
+      }
+  }
+}
